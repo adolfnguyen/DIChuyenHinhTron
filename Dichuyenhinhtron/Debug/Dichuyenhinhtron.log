@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(37,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(53,9): warning C4101: 'perX': unreferenced local variable
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(54,22): warning C4101: 'm_Right': unreferenced local variable
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(54,14): warning C4101: 'm_Left': unreferenced local variable
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(53,15): warning C4101: 'perY': unreferenced local variable
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(54,7): warning C4101: 'm_Top': unreferenced local variable
+C:\LapTrinhWindow\Dichuyenhinhtron\Source.cpp(54,31): warning C4101: 'm_Bottom': unreferenced local variable
+  Dichuyenhinhtron.vcxproj -> C:\LapTrinhWindow\Dichuyenhinhtron\Debug\Dichuyenhinhtron.exe
